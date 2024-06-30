@@ -1,7 +1,7 @@
  SCT_WD_3
 The repository consists Skill Craft Technology intern's task 3 : Tic tac toe web application
 <br> - Author-Harshad zambre
-<br>### Tic-Tac-Toe Game
+<br> Tic-Tac-Toe Game
 
 This repository hosts a Tic-Tac-Toe game developed as an internship task assigned by Skill Craft Technology. The game is designed using HTML, CSS, and JavaScript, offering two modes: **Computer vs Human** and **Human vs Human**. It includes a basic AI using the minimax algorithm for the computer's moves.
 
